@@ -24,6 +24,7 @@ Languages and tools
 
 Currently exploring
 Natural language processing · Deep learning · Data analytics · AWS AI and ML services
+
 Project experience
 
 | Project | Focus |
