@@ -38,6 +38,7 @@ I enjoy learning how to turn data into useful insights and building practical ap
 
 | Project | Focus |
 | --- | --- |
+| **AgriLak** | Developed the paddy disease detection component using MobileNetV2 |
 | **Fact-checking coursework** | Implementing the textual entailment component in a team pipeline |
 | **News recommendation application** | JavaFX application with TF-IDF-based recommendations |
 
