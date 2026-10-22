@@ -25,10 +25,12 @@ Languages and tools
 Currently exploring
 Natural language processing · Deep learning · Data analytics · AWS AI and ML services
 Project experience
-Project	Focus
-AgriLak	Developed the paddy disease detection component using MobileNetV2
-Fact-checking coursework	Implementing the textual entailment component in a team pipeline
-News recommendation application	JavaFX application with TF-IDF-based recommendations
+
+| Project | Focus |
+| --- | --- |
+| **AgriLak** | Developed the paddy disease detection component using MobileNetV2 |
+| **Fact-checking coursework** | Implementing the textual entailment component in a team pipeline |
+| **News recommendation application** | JavaFX application with TF-IDF-based recommendations |
 
 
 Browse my public repositories to see the work I've shared.
